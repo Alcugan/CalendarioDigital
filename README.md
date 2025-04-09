@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Calendario-Digital
 Final draft of the interactive calendar dating from mid-2025,
 participants in the development of the project:
@@ -15,7 +15,5 @@ participants in the development of the project:
   ![image](https://github.com/user-attachments/assets/e61ada87-9a9b-403c-93d4-b0fd6cf2baea)
 
 
-=======
-# CalendarioDigital
-Final website project 
->>>>>>> bf8a33e (Initial commit)
+
+
